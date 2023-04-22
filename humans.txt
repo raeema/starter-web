@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    preshit  training_period  preshit7766
 
 # THANKS
 
