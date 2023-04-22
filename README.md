@@ -10,3 +10,6 @@ simple example for Git training demos.
 This ia a simple web project,deployement can be
 on any web server or even local file system.
 ## how to contriubute
+
+
+### Copyright
