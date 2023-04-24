@@ -1,5 +1,5 @@
 # Starter web project
-This is a simple website project for showing how to use Git and GitHub togehter. Adding a line for rebasing an example.
+This is a simple website project for showing how to use Git and GitHub togehter.Updating for emergency fix after the stashing
 ## Introduction
 This is a example is to show different parts of the Git
 reositary and verious commands using a web project
